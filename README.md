@@ -17,3 +17,11 @@ API key is free to use up to 100 Eur limit per month.
 # Example
 
 ![github-large](Example.PNG)
+
+# Conert collected data to interactive map
+
+Once requried data is collected with *gapi_results_to_map* this can be converted to interactive map.
+
+Please change starting location coordinates based on your preference or data location.
+
+![github-large](Map_example.PNG)
