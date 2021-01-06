@@ -14,4 +14,6 @@ API key is free to use up to 100 Eur limit per month.
 
 2000 calls ended in a 63 Eur sum :))
 
+# Example
+
 ![github-large](Example.PNG)
